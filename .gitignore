@@ -5,6 +5,7 @@
 *.xlsx
 .DS_Store
 data/*
+*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
